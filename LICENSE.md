@@ -1,4 +1,4 @@
-# 
+# custom Plugin for Bitwarden for PC | Bitwarden for Windows - credit-card-storage and secure-backup is the best Bitwarden for PC | Bitwarden for Windows plugin, featuring
 
 
 
